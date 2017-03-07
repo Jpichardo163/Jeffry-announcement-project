@@ -1,0 +1,66 @@
+nav{
+	display:flex;
+	font-size:20px;
+	text-align:center;
+}
+a{
+	text-decoration: none;
+}
+#episode-guide{
+	color:black;
+}
+div{
+	flex:1;
+	border: solid;
+}
+#navigation{
+}
+
+body{
+	background: url(http://www.imgbase.info/images/safe-wallpapers/anime/one_piece/7252_one_piece.jpg);
+}
+#jolly{
+	margin-left: 400px;
+	width: 500px; 
+	height: 200px;
+}
+table{
+	border: solid;
+	width: 100%;
+}
+td{
+	border:solid;
+	height: 43px;
+    font-style: bold;
+    font-size: 25px;
+    background-color:white;
+}
+/*table colors*/
+#luffy{
+	background-color: red;
+}
+#zoro{
+	background-color: green;
+}
+#sanji{
+	background-color: black;
+	color: white;
+}
+#franky{
+	background-color: lightblue;
+}
+#brook{
+	background-color: purple;
+}
+#nami{
+	background-color: orange;
+}
+#robin{
+	background-color: tan;
+}
+#chopper{
+	background-color: pink;
+}
+#usopp{
+	background-color:brown;
+}
